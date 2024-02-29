@@ -1,0 +1,12 @@
+body{
+    min-width: 300px;
+    border-color: black;
+    font-weight: bold;
+    background-color: green;
+
+}
+.center{
+    text-align: center;
+    border-color: black;
+    font-weight: bold;
+}

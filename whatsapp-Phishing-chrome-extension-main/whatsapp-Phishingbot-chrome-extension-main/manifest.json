@@ -1,0 +1,15 @@
+{
+"manifest_version":3,
+"name":"Whatsapp spam/phishingbot",
+"description":"Whatsapp spam/phishingbot",
+"version":"1.0",
+"action":{
+    "default_popup":"popup.html"
+},
+"permissions":[
+    "tabs",
+    "activeTab",
+    "scripting"
+]
+
+}
